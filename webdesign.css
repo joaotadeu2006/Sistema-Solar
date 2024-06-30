@@ -1,3 +1,4 @@
+/*Logo no começo selecionamos um modelo diferenciado de fonte para destacar o título do site, que foi baixada e importada para o código, além de uma imagem de fundo reduzida, que é a galáxia ilustrativa*/
 body {
     background:linear-gradient(black,rgb(89, 4, 4));
   }
@@ -11,6 +12,7 @@ body {
     background-repeat: no-repeat;
     padding: 15px;
   }
+/*A partir dessa seção, o que é feito nesse código em CSS é basicamente a decoração do site,tornando-o mais agradável ao possível usuário*/
   h1 {
     text-align:center;
     color: yellow;
